@@ -1,0 +1,29 @@
+@font-face{
+	font-family: 'Recoleta_RegularDEMO';
+	src:url(../fonts/Recoleta-RegularDEMO.otf);
+}
+
+@font-face{
+	font-family: 'Montserrat_medium';
+	src:url(../fonts/Montserrat-Medium.ttf);
+}
+
+@font-face{
+	font-family: 'Montserrat_Regular';
+	src:url(../fonts/Montserrat-Regular.ttf);
+}
+
+@font-face{
+	font-family: 'Montserrat_Bold';
+	src:url(../fonts/Montserrat-Bold.ttf);
+}
+
+@font-face{
+	font-family: 'FuturaNowHeadline';
+	src:url(../fonts/FuturaNowHeadline.woff);
+}
+
+@font-face{
+	font-family: 'Unicode';
+	src:url(../fonts/mon3.woff);
+}
