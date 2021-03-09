@@ -39,7 +39,7 @@ class DressController extends Controller
      */
     public function store(Request $request)
     {
-       
+
         dd('store');
     }
 
